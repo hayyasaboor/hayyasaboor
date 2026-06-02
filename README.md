@@ -2,10 +2,9 @@
 
 > *Computer Science + Bioinformatics student by day. beauty tech builder by night. convinced that the best software gets made by people who actually live the problem.*
 
-I sit at the intersection of **science, tech, and the very real frustration of overpaying for imported makeup in Pakistan.**
+Sitting at the intersection of **science, tech, and the very real frustration of overpaying for imported makeup in Pakistan.**
 First-year CIT @ RIT Dubai — minor in bioinformatics, Dean's List, and currently learning that genes and good code have more in common than people think.
 
----
 
 ## what i'm building
 
@@ -17,7 +16,6 @@ First-year CIT @ RIT Dubai — minor in bioinformatics, Dean's List, and current
 | **Hospital Workflow Tracker** | Python bottleneck detector for patient visit data flows | shipped |
 | **ERP Inventory System** | Odoo-inspired sales + stock + invoicing in pure Python | shipped |
 
----
 
 ## stack
 
@@ -31,7 +29,7 @@ First-year CIT @ RIT Dubai — minor in bioinformatics, Dean's List, and current
 
 currently learning → `SwiftUI` `HealthKit` `REST APIs`
 
----
+
 
 ## not just a cs student
 
@@ -42,19 +40,17 @@ before I wrote a single line of Java I had already:
 
 the software I want to build comes from knowing what it's like on the other side of the screen.
 
----
+
 
 ## a bit more
-
-- 📍 Dubai · originally from Lahore 🇵🇰
--  bioinformatics minor — because biology is just data with better branding
--  Dean's List · 2nd place WICxGDC · 100% academic scholarship
+-  plan on porting my Carbon Footprint Tracker from Desktop -> Mobile
+-  you'll see me trying to build a BioinfoLookup App soon (maybe)
 -  building PakBeauty Finder because I got tired of manually checking 6 websites for one lipstick
 -  ask me about — python, java, why i have a bioinformatics minor, or where 
 to get the cheapest rare beauty in lahore  
 
 
----
+
 
 <sub>reach me → hayyasaboor3@gmail.com</sub>
 
